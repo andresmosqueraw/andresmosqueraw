@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andresmosqueraw
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Next.js, AI
-- 💞️ I’m looking to collaborate on a top company about technology
+- 💞️ I'm looking to collaborate with a product-centric company focused on technology
 - 📫 How to reach me https://www.linkedin.com/in/andresmosqueraw/
 
 <!---
